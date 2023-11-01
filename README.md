@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on cloud-infra management and automation solutions
+- 🌱 I’m currently learning more in dev/git op's topics
 <!--
 **Lxsko/Lxsko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
